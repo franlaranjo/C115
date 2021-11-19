@@ -3,7 +3,7 @@ from mininet.topo import Topo
 class MyTopo( Topo ):
     "2 host 2 switch 2 host 1 switch 2 host custom topology"
     def __init__( self ):
-    "Create custom topo."
+        "Create custom topo."
         # Initialize topology
         Topo.__init__( self )
         # Add hosts and switches
