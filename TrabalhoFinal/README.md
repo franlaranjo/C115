@@ -33,7 +33,6 @@ $ git clone https://github.com/franlaranjo/C115.git
 
 ### Execução
 
-```
 Na pasta raiz
 ```
 pip install -r requirements.txt 
